@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Dymski
-- 👀 I’m interested in Java development and whole surrounding ecosystem.
-- 🌱 I’m currently learning Java, Spring Web, React, PostgreSQL.
-- 💞️ I’m looking to collaborate on anything you think I could contribute to.
+- 👋 Hi, 
 - 📫 How to reach me -> w.radymski@hotmail.com
 
 <!---
